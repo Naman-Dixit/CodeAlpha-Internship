@@ -1,0 +1,7 @@
+# NovaBot custom training data - edit this file to train the bot with your own FAQs.
+# Format (one topic per line):  tag||question 1;;question 2;;question 3||answer 1;;answer 2
+# Lines starting with # are ignored. Type "retrain" in the chat (console/GUI/web) after editing.
+
+founder||who founded novatech;;who is the founder of your company;;when was novatech started;;how old is the company||NovaTech Solutions was founded in 2015 by a team of engineers in Bengaluru.
+holidays||are you closed on public holidays;;what is your holiday schedule;;do you work on diwali;;is support available on holidays||Our support team is closed on national public holidays, but you can still open a ticket and we'll reply on the next working day.
+languages||which languages do you support;;is your software available in hindi;;do you support other languages;;can i change the language||NovaTech apps are available in English, Hindi, Spanish, French and German. Change the language in Settings > Preferences.
