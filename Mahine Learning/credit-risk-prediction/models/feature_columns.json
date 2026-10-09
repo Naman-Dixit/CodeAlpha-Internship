@@ -1,0 +1,38 @@
+{
+  "numeric_features": [
+    "LIMIT_BAL",
+    "AGE",
+    "PAY_0",
+    "PAY_2",
+    "PAY_3",
+    "PAY_4",
+    "PAY_5",
+    "PAY_6",
+    "BILL_AMT1",
+    "BILL_AMT2",
+    "BILL_AMT3",
+    "BILL_AMT4",
+    "BILL_AMT5",
+    "BILL_AMT6",
+    "PAY_AMT1",
+    "PAY_AMT2",
+    "PAY_AMT3",
+    "PAY_AMT4",
+    "PAY_AMT5",
+    "PAY_AMT6",
+    "avg_bill_amt",
+    "avg_pay_amt",
+    "credit_utilization",
+    "debt_to_limit_ratio",
+    "payment_to_bill_ratio",
+    "num_months_delayed",
+    "max_delay"
+  ],
+  "categorical_features": [
+    "SEX",
+    "EDUCATION",
+    "MARRIAGE",
+    "age_group",
+    "limit_group"
+  ]
+}
